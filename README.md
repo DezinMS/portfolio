@@ -1,4 +1,10 @@
 # Portfólio de Projetos
 
 Confira meu portfólio online: [Clique aqui para acessar](https://dezinms.github.io/portfolio/)
-Para rodar o projeto3 em seu computador, utilize um terminal, já que ele é um projeto em Python e não consegue rodar em um navegador.
+
+
+---
+
+## Projeto 3
+
+Para rodar o Projeto 3 em seu computador, utilize o terminal, pois ele é um projeto em Python e não roda no navegador.

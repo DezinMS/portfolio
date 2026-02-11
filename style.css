@@ -41,16 +41,20 @@ main {
 /* === Botões de projeto === */
 .project-btn {
     display: inline-block;
-    padding: 18px 35px;
-    font-size: 1.2rem;
-    font-weight: bold;
+    padding: 12px 25px;
+    margin: 10px 0;
+    background: linear-gradient(90deg, #8A2BE2, #4B6CB7); /* roxo e azul */
     color: #fff;
     text-decoration: none;
-    border-radius: 12px;
-    background: linear-gradient(45deg, #d39fff, #a1c4fd);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
-    transition: all 0.3s ease;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: transform 0.2s;
 }
+
+.project-btn:hover {
+    transform: scale(1.05);
+}
+
 
 .project-btn:hover {
     transform: translateY(-3px) scale(1.05);
